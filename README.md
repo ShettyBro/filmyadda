@@ -1,7 +1,7 @@
 
 # FilmyAdda
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://filmyadda-939.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6a7f3143-3c76-478d-ba1f-af2802a9c08b/deploy-status)](https://app.netlify.com/sites/filmyadda-939/deploys)
 
 FilmyAdda is an online OTT platform built to provide a Netflix-like experience for streaming movies. The platform allows users to browse movies, register an account, and enjoy a customized viewing experience.
 
