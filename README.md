@@ -80,7 +80,7 @@ filmyadda/
 
 ## Live Demo
 
-Check out the live version of the site [here](https://filmyadda-1.netlify.app).
+Check out the live version of the site [here](https://filmyadda.shettybro.tech/index.html).
 
 ## Contributions
 
