@@ -80,7 +80,8 @@ filmyadda/
 
 ## Live Demo
 
-Check out the live version of the site [here](https://filmyadda.shettybro.tech/index.html).
+Check out the live version of the site <a href="https://filmyadda.shettybro.tech/index.html" target="_blank">here</a>
+
 
 ## Contributions
 
