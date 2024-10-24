@@ -87,7 +87,7 @@ if (registerForm) {
         const password = document.getElementById('password').value;
 
         try {
-            const response = await fetch('https://4.240.62.210:443/register', {
+            const response = await fetch('http://4.240.62.210:3000/register', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -123,7 +123,7 @@ if (loginForm) {
         const password = document.getElementById('password').value;
 
         try {
-            const response = await fetch('https://4.240.62.210:443/login', {
+            const response = await fetch('http://4.240.62.210:3000/login', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -176,7 +176,7 @@ async function fetchMovieDetails() {
     }
 
     try {
-        const response = await fetch(`https://4.240.62.210:443/movies/${movieId}`); // Use the movieId in the URL
+        const response = await fetch(`http://4.240.62.210:3000/movies/${movieId}`); // Use the movieId in the URL
         const data = await response.json();
 
         if (response.ok) {
