@@ -3,6 +3,6 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "http://<vm-ip>:3000/:splat"
+  to = "4.240.62.210:3000/:splat"
   status = 200
   force = true
