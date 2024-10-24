@@ -6,3 +6,17 @@
   to = "4.240.62.210:3000/:splat"
   status = 200
   force = true
+
+
+
+# Additional redirect rule for handling any other routing (if necessary)
+[[redirects]]
+  from = "/*"
+  to = "/public/login.html"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/public/register.html"
+  status = 200
+
